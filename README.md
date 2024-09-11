@@ -1,7 +1,8 @@
 # papers
 a place to share papers that i find interesting.
 
-
+update 9/11/24:
+<br>released 4/27/01 [Covariation of mesoscale ocean color and sea-surface temperature patterns in the Sargasso Sea]([https://doi.org/10.1016/j.rse.2024.114316](https://doi.org/10.1016/S0967-0645(00)00164-8))
 
 update 9/10/24:
 <br>released 9/1/24 [Comparative validation of recent 10 m-resolution global land cover maps](https://doi.org/10.1016/j.rse.2024.114316)
