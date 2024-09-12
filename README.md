@@ -1,6 +1,10 @@
 # papers
 a place to share papers that i find interesting.
 
+9/12/24:
+<br>released 10/1/75 [El Niño—The Dynamic Response of the Equatorial Pacific Oceanto Atmospheric Forcing](https://doi.org/10.1175/1520-0485(1975)005%3C0572:ENTDRO%3E2.0.CO;2)
+
+
 update 9/11/24:
 <br>released 4/27/01 [Covariation of mesoscale ocean color and sea-surface temperature patterns in the Sargasso Sea](https://doi.org/10.1016/j.rse.2024.114316](https://doi.org/10.1016/S0967-0645(00)00164-8))
 
