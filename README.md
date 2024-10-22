@@ -1,6 +1,10 @@
 # papers
 a place to share papers that i find interesting.
 
+10/22/24:
+<br>released July 2007 [NOAA’s Climate Database Modernization Program: Rescuing, archiving, and digitizing history]
+(https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1418&context=usdeptcommercepub)
+
 9/12/24:
 <br>released 10/1/75 [El Niño—The Dynamic Response of the Equatorial Pacific Ocean to Atmospheric Forcing](https://doi.org/10.1175/1520-0485(1975)005%3C0572:ENTDRO%3E2.0.CO;2)
 
